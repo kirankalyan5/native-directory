@@ -802,6 +802,13 @@
     "expo": true
   },
   {
+    "githubUrl": "https://github.com/kirankalyan5/react-native-segmented-control-tab",
+    "ios": true,
+    "android": true,
+    "web": false,
+    "expo": false
+  },
+  {
     "githubUrl": "https://github.com/christopherdro/react-native-calendar",
     "ios": true,
     "android": true,
